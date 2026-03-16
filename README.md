@@ -1,54 +1,115 @@
-<header>
+# 👋 Hello, I'm Uday Kiran Gandham
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+📍 Hyderabad, Telangana, India  
+📧 udaykirangandham9@gmail.com  
 
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+🔗 LinkedIn: https://www.linkedin.com/in/gandhamudaykiran5/  
+💻 GitHub: https://github.com/Udaykiran5154  
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 👨‍💻 About Me
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+I am an MCA student with strong academic performance in computer science and programming.  
+I have hands-on experience in **Python, SQL, and Data Analytics** with practical exposure to **data cleaning, visualization, and extracting insights from datasets**.  
 
-</footer>
+I am passionate about solving real-world problems using **data analysis and software development** and looking for opportunities in **Data Analytics, Software Development, and Data Science roles**.
+
+---
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+Aurora Degree and PG College, Hyderabad  
+Oct 2024 – Present  
+
+**Bachelor of Science (MPCS)** – 81%  
+Girraj Govt Degree College, Nizamabad  
+Sep 2021 – July 2024  
+
+**Intermediate (MPC)** – 90%  
+Kshatriya Junior College, Nizamabad  
+
+**SSC** – 93%  
+Zilla Parishad High School, Nizamabad  
+
+---
+
+## 🛠 Technical Skills
+
+**Programming Languages**  
+Python, C, C++, Java  
+
+**Data Analysis Tools**  
+SQL, Microsoft Excel, Power BI, Tableau  
+
+**Other Skills**  
+Data Cleaning  
+Data Visualization  
+Database Management  
+Problem Solving  
+Analytical Thinking  
+
+---
+
+## 💼 Work Experience
+
+### Data Analytics Intern  
+Uptricks Services Pvt. Ltd.  
+Dec 2025 – Feb 2026
+
+• Collected and analyzed datasets to identify patterns and trends  
+• Performed data cleaning and preprocessing  
+• Created reports and dashboards for data visualization  
+• Used SQL and Excel for data analysis  
+
+---
+
+## 📊 Projects
+
+### 📈 Sales Performance Analysis
+Tools: Power BI, Excel, Data Visualization  
+
+• Analyzed retail sales datasets to identify trends and business insights  
+• Cleaned and preprocessed data  
+• Calculated key metrics such as Total Sales, Quantity Sold, and Average Order Value  
+• Built dashboards with bar charts, line charts, and pie charts  
+
+Project Link:  
+https://github.com/Udaykiran5154/PowerBI-Sales-Dashboard
+
+---
+
+### 🛒 E-commerce Price Comparison Tool
+
+Tools: Python, APIs  
+
+• Developed a tool to compare product prices across multiple e-commerce websites  
+• Used web scraping and APIs to collect product pricing data  
+• Implemented data cleaning to ensure accurate comparison  
+• Enabled CSV export of price comparison results  
+
+---
+
+## 🏆 Certifications
+
+• Data Analytics Internship – Uptricks Services Pvt Ltd  
+• SQL and Relational Databases 101 – Cognitive Class  
+• Tata Data Visualisation Job Simulation – Forage  
+• Deloitte Data Analytics Job Simulation – Forage  
+
+---
+
+## 🌎 Languages
+
+English  
+Telugu  
+Hindi  
+
+---
+
+## 📫 Contact Me
+
+📧 Email: udaykirangandham9@gmail.com  
+💻 GitHub: https://github.com/Udaykiran5154  
+🔗 LinkedIn: https://www.linkedin.com/in/gandhamudaykiran5/
